@@ -120,7 +120,7 @@ RDEPEND="
 	~dev-python/grpcio-reflection-1.59.0[${PYTHON_USEDEP}]
         dev-python/cchardet[${PYTHON_USEDEP}]
 	>=dev-python/btlewrap-0.0.10[${PYTHON_USEDEP}]
-	~dev-python/anyio-4.6.0[${PYTHON_USEDEP}]
+	~dev-python/anyio-4.7.0[${PYTHON_USEDEP}]
 	~dev-python/h11-0.14.0[${PYTHON_USEDEP}]
 	~dev-python/httpcore-1.0.5[${PYTHON_USEDEP}]
 	>=dev-python/hyperframe-5.2.0[${PYTHON_USEDEP}]
