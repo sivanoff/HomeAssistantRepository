@@ -21,7 +21,7 @@ RESTRICT="!test? ( test )"
 RDEPEND="cli? (
 			  >=dev-python/jinja2-3.0.3[${PYTHON_USEDEP}]
 			  >=dev-python/click-8.0.3[${PYTHON_USEDEP}]
-			  >=dev-python/terminaltables-3.1.10[${PYTHON_USEDEP}]
+			  >=dev-python/terminaltables3-4.0.0[${PYTHON_USEDEP}]
 			  )"
 BDEPEND="
 	test? (

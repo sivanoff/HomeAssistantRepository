@@ -53,17 +53,17 @@ RDEPEND="${RDEPEND}
 	~dev-python/aiohasupervisor-0.1.0[${PYTHON_USEDEP}]
 	~dev-python/aiohttp-fast-zlib-0.1.1[${PYTHON_USEDEP}]
 	~dev-python/aiohttp-3.10.8[${PYTHON_USEDEP}]
-	~dev-python/aiohttp-cors-0.7.0[${PYTHON_USEDEP}]
+	~dev-python/aiohttp-cors-0.8.1[${PYTHON_USEDEP}]
 	~dev-python/aiozoneinfo-0.2.1[${PYTHON_USEDEP}]
-	~dev-python/anyio-4.7.0[${PYTHON_USEDEP}]
+	~dev-python/anyio-4.8.0-r2[${PYTHON_USEDEP}]
 	~dev-python/astral-2.2[${PYTHON_USEDEP}]
 	~dev-python/async-interrupt-1.2.0[${PYTHON_USEDEP}]
 	~dev-python/async-upnp-client-0.40.0[${PYTHON_USEDEP}]
 	~dev-python/atomicwrites-homeassistant-1.4.1[${PYTHON_USEDEP}]
-	~dev-python/attrs-24.3.0[${PYTHON_USEDEP}]
+	~dev-python/attrs-25.3.0[${PYTHON_USEDEP}]
 	~dev-python/awesomeversion-24.6.0[${PYTHON_USEDEP}]
 	>=dev-python/backoff-2.0[${PYTHON_USEDEP}]
-	~dev-python/bcrypt-4.2.1[${PYTHON_USEDEP}]
+	~dev-python/bcrypt-4.3.0[${PYTHON_USEDEP}]
 	~dev-python/bleak-retry-connector-3.5.0[${PYTHON_USEDEP}]
 	~dev-python/bleak-0.22.2[${PYTHON_USEDEP}]
 	~dev-python/bluetooth-adapters-0.19.4[${PYTHON_USEDEP}]
@@ -73,9 +73,9 @@ RDEPEND="${RDEPEND}
 	~dev-python/cached-ipaddress-0.6.0[${PYTHON_USEDEP}]
 	>=dev-python/certifi-2021.5.30[${PYTHON_USEDEP}]
 	>=dev-python/chacha20poly1305-reuseable-0.13.0[${PYTHON_USEDEP}]
-	~dev-python/charset-normalizer-3.2.0[${PYTHON_USEDEP}]
+	~dev-python/charset-normalizer-3.4.1[${PYTHON_USEDEP}]
 	~dev-python/ciso8601-2.3.1[${PYTHON_USEDEP}]
-	~dev-python/cryptography-43.0.3-r1[${PYTHON_USEDEP}]
+	~dev-python/cryptography-44.0.2[${PYTHON_USEDEP}]
 	>=dev-python/dacite-1.7.0[${PYTHON_USEDEP}]
 	~dev-python/dbus-fast-2.24.0[${PYTHON_USEDEP}]
 	>=dev-python/faust-cchardet-2.1.18[${PYTHON_USEDEP}]
@@ -92,22 +92,22 @@ RDEPEND="${RDEPEND}
 	~dev-python/home-assistant-bluetooth-1.13.0[${PYTHON_USEDEP}]
 	~dev-python/home-assistant-frontend-20241002.4[${PYTHON_USEDEP}]
 	~dev-python/home-assistant-intents-2024.10.2[${PYTHON_USEDEP}]
-	~dev-python/httpcore-1.0.7[${PYTHON_USEDEP}]
+	~dev-python/httpcore-1.0.8-r1[${PYTHON_USEDEP}]
 	>=dev-python/httplib2-0.19.0[${PYTHON_USEDEP}]
 	~dev-python/httpx-0.27.2[${PYTHON_USEDEP}]
 	>=dev-python/hyperframe-5.2.0[${PYTHON_USEDEP}]
 	~dev-python/ifaddr-0.2.0[${PYTHON_USEDEP}]
-	~dev-python/jinja2-3.1.5[${PYTHON_USEDEP}]
+	~dev-python/jinja2-3.1.6[${PYTHON_USEDEP}]
 	~dev-python/lru-dict-1.3.0[${PYTHON_USEDEP}]
 	>=dev-python/mashumaro-3.13.1[${PYTHON_USEDEP}]
 	>=dev-python/multidict-6.0.2[${PYTHON_USEDEP}]
 	~media-libs/mutagen-1.47.0[${PYTHON_USEDEP}]
 	~dev-python/numpy-1.26.4[${PYTHON_USEDEP}]
-	~dev-python/orjson-3.10.11-r1[${PYTHON_USEDEP}]
+	~dev-python/orjson-3.10.16[${PYTHON_USEDEP}]
 	>=dev-python/packaging-23.1[${PYTHON_USEDEP}]
 	~dev-python/paho-mqtt-1.6.1[${PYTHON_USEDEP}]
-	~dev-python/pandas-2.1.4[${PYTHON_USEDEP}]
-	~dev-python/pillow-10.4.0[${PYTHON_USEDEP}]
+	~dev-python/pandas-2.2.3[${PYTHON_USEDEP}]
+	~dev-python/pillow-11.1.0[${PYTHON_USEDEP}]
 	>=dev-python/protobuf-4.25.4[${PYTHON_USEDEP}]
 	~dev-python/psutil-home-assistant-0.0.1[${PYTHON_USEDEP}]
 	>=dev-python/pycountry-23.12.11[${PYTHON_USEDEP}]
@@ -116,7 +116,7 @@ RDEPEND="${RDEPEND}
 	~dev-python/pyjwt-2.9.0[${PYTHON_USEDEP}]
 	~dev-python/pymicro-vad-1.0.1[${PYTHON_USEDEP}]
 	~dev-python/pynacl-1.5.0[${PYTHON_USEDEP}]
-	~dev-python/pyopenssl-24.2.1[${PYTHON_USEDEP}]
+	~dev-python/pyopenssl-25.0.0-r1[${PYTHON_USEDEP}]
 	~dev-python/pyserial-3.5[${PYTHON_USEDEP}]
 	~dev-python/pyspeex-noise-1.0.2[${PYTHON_USEDEP}]
 	~dev-python/python-slugify-8.0.4[${PYTHON_USEDEP}]
@@ -137,7 +137,7 @@ RDEPEND="${RDEPEND}
 	~dev-python/voluptuous-0.15.2[${PYTHON_USEDEP}]
 	>=dev-python/websockets-11.0.1[${PYTHON_USEDEP}]
 	~dev-python/yarl-1.18.3[${PYTHON_USEDEP}]
-	~dev-python/zeroconf-0.136.2[${PYTHON_USEDEP}]"
+	~dev-python/zeroconf-0.146.3[${PYTHON_USEDEP}]"
 
 # unknown origin, still something to clean up here
 
@@ -372,7 +372,7 @@ RDEPEND="${RDEPEND}
 	roomba? ( ~dev-python/roombapy-1.8.1[${PYTHON_USEDEP}] )
 	roon? ( ~dev-python/roonapi-0.1.6[${PYTHON_USEDEP}] )
 	samsungtv? ( ~dev-python/getmac-0.9.4[${PYTHON_USEDEP}] ~dev-python/samsungctl-0.7.1[${PYTHON_USEDEP}] ~dev-python/samsungtvws-2.6.0[async,encrypted,${PYTHON_USEDEP}] ~dev-python/wakeonlan-2.1.0[${PYTHON_USEDEP}] ~dev-python/async-upnp-client-0.40.0[${PYTHON_USEDEP}] )
-	scrape? ( ~dev-python/beautifulsoup4-4.12.3[${PYTHON_USEDEP}] ~dev-python/lxml-5.3.0[${PYTHON_USEDEP}] )
+	scrape? ( ~dev-python/beautifulsoup4-4.13.4[${PYTHON_USEDEP}] ~dev-python/lxml-5.3.2[${PYTHON_USEDEP}] )
 	season? ( ~dev-python/ephem-4.1.5[${PYTHON_USEDEP}] )
 	shelly? ( ~dev-python/aioshelly-11.4.2[${PYTHON_USEDEP}] )
 	shodan? ( ~net-analyzer/shodan-1.28.0 )

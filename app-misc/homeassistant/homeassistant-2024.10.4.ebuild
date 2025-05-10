@@ -135,7 +135,7 @@ RDEPEND="
 	~dev-python/protobuf-python-4.25.4[${PYTHON_USEDEP}]
 	>=dev-python/cchardet-2.1.18[${PYTHON_USEDEP}]
 	>=dev-python/websockets-11.0.1[${PYTHON_USEDEP}]
-	~dev-python/charset-normalizer-3.2.0[${PYTHON_USEDEP}]
+	~dev-python/charset-normalizer-3.4.1[${PYTHON_USEDEP}]
 	>=dev-python/dacite-1.7.0[${PYTHON_USEDEP}]
 	>=dev-python/chacha20poly1305-reuseable-0.13.0[${PYTHON_USEDEP}]
 	>=dev-python/pycountry-23.12.11[${PYTHON_USEDEP}]
